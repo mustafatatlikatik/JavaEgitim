@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Asalsayibulma/Asalsayibulma.iml" filepath="$PROJECT_DIR$/Asalsayibulma/Asalsayibulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CokBoyutluDiziler/CokBoyutluDiziler.iml" filepath="$PROJECT_DIR$/CokBoyutluDiziler/CokBoyutluDiziler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Diziler/Diziler.iml" filepath="$PROJECT_DIR$/Diziler/Diziler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DizilerOrnekProgram/DizilerOrnekProgram.iml" filepath="$PROJECT_DIR$/DizilerOrnekProgram/DizilerOrnekProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Donguler/Donguler.iml" filepath="$PROJECT_DIR$/Donguler/Donguler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaDegiskenler/JavaDegiskenler.iml" filepath="$PROJECT_DIR$/JavaDegiskenler/JavaDegiskenler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaEğitim.iml" filepath="$PROJECT_DIR$/.idea/JavaEğitim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaHelloWorld/JavaHelloWorld.iml" filepath="$PROJECT_DIR$/JavaHelloWorld/JavaHelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrnekProgram/OrnekProgram.iml" filepath="$PROJECT_DIR$/OrnekProgram/OrnekProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SartBloklari/SartBloklari.iml" filepath="$PROJECT_DIR$/SartBloklari/SartBloklari.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stringifadeler/Stringifadeler.iml" filepath="$PROJECT_DIR$/Stringifadeler/Stringifadeler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stringifadeler2/Stringifadeler2.iml" filepath="$PROJECT_DIR$/Stringifadeler2/Stringifadeler2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VeriTipleri/VeriTipleri.iml" filepath="$PROJECT_DIR$/VeriTipleri/VeriTipleri.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstractClasslar/abstractClasslar.iml" filepath="$PROJECT_DIR$/abstractClasslar/abstractClasslar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstractDeneme/abstractDeneme.iml" filepath="$PROJECT_DIR$/abstractDeneme/abstractDeneme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraylistDemo/arraylistDemo.iml" filepath="$PROJECT_DIR$/arraylistDemo/arraylistDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classesWithAttributes/classesWithAttributes.iml" filepath="$PROJECT_DIR$/classesWithAttributes/classesWithAttributes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classlarTekrarcalismasi/classlarTekrarcalismasi.iml" filepath="$PROJECT_DIR$/classlarTekrarcalismasi/classlarTekrarcalismasi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classlarr/classlarr.iml" filepath="$PROJECT_DIR$/classlarr/classlarr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritanceDeneme/inheritanceDeneme.iml" filepath="$PROJECT_DIR$/inheritanceDeneme/inheritanceDeneme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaceDeneme/interfaceDeneme.iml" filepath="$PROJECT_DIR$/interfaceDeneme/interfaceDeneme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/interfaces/interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metodlar/metodlar.iml" filepath="$PROJECT_DIR$/metodlar/metodlar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metodlar2/metodlar2.iml" filepath="$PROJECT_DIR$/metodlar2/metodlar2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/overloadingMetodu/overloadingMetodu.iml" filepath="$PROJECT_DIR$/overloadingMetodu/overloadingMetodu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/overriding/overriding.iml" filepath="$PROJECT_DIR$/overriding/overriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packagesDemo/packagesDemo.iml" filepath="$PROJECT_DIR$/packagesDemo/packagesDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polymprphismDeneme/polymprphismDeneme.iml" filepath="$PROJECT_DIR$/polymprphismDeneme/polymprphismDeneme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sayiBulma/sayiBulma.iml" filepath="$PROJECT_DIR$/sayiBulma/sayiBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sesisessiz/sesisessiz.iml" filepath="$PROJECT_DIR$/sesisessiz/sesisessiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/staticDemo/staticDemo.iml" filepath="$PROJECT_DIR$/staticDemo/staticDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switchcase/switchcase.iml" filepath="$PROJECT_DIR$/switchcase/switchcase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled1/untitled1.iml" filepath="$PROJECT_DIR$/untitled1/untitled1.iml" />
+    </modules>
+  </component>
+</project>
