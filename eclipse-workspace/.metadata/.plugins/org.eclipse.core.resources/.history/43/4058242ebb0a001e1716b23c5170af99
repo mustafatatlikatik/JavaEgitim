@@ -1,9 +1,0 @@
-package oopWithNLayeredApp.dataAccess;
-
-import oopWithNLayeredApp.entities.Product;
-
-public interface IProductDao {
-	
-	
-
-}
